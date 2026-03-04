@@ -1,5 +1,9 @@
 # SQL Customer Sales Analytics (PostgreSQL)
 
+## Dashboard Preview
+
+![Retail Dashboard](dashboard_preview.png)
+
 ## Overview
 This project analyzes retail transaction data using PostgreSQL to identify revenue trends, customer behavior, and product performance. The analysis demonstrates common data analyst workflows including data cleaning, KPI reporting, and customer segmentation using SQL.
 
