@@ -4,6 +4,8 @@
 
 ![Retail Dashboard](dashboard_preview.png)
 
+Power BI dashboard built from SQL analysis showing monthly revenue trends, order activity, and customer segmentation using RFM scoring.
+
 ## Overview
 This project analyzes retail transaction data using PostgreSQL to identify revenue trends, customer behavior, and product performance. The analysis demonstrates common data analyst workflows including data cleaning, KPI reporting, and customer segmentation using SQL.
 
