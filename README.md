@@ -17,6 +17,7 @@ The dataset contains over 500,000 retail transaction records including product p
 - Excel (for exporting query results)
 
 ## Project Structure
+```markdown
 sql-customer-sales-analytics
 │
 ├── sql
@@ -30,6 +31,7 @@ sql-customer-sales-analytics
 │   └── rfm_top50.csv
 │
 └── README.md
+```
 
 ## Analysis Steps
 
